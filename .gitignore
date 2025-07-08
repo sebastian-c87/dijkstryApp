@@ -1,0 +1,54 @@
+# Pliki Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Środowisko Python
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# PyInstaller - pliki tymczasowe
+build/
+*.manifest
+*.spec
+
+# Pliki IDE/edytora
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System operacyjny
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Pliki projektów Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pliki konfiguracyjne
+.env
+config.ini
+
+# Dokumentacja 
+# docs/build/
